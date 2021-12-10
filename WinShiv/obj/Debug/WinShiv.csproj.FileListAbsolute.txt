@@ -1,0 +1,9 @@
+C:\Users\Алеша\Desktop\WinShiv\WinShiv\bin\Debug\WinShiv.exe.config
+C:\Users\Алеша\Desktop\WinShiv\WinShiv\bin\Debug\WinShiv.exe
+C:\Users\Алеша\Desktop\WinShiv\WinShiv\bin\Debug\WinShiv.pdb
+C:\Users\Алеша\Desktop\WinShiv\WinShiv\obj\Debug\WinShiv.csprojResolveAssemblyReference.cache
+C:\Users\Алеша\Desktop\WinShiv\WinShiv\obj\Debug\WinShiv.Form1.resources
+C:\Users\Алеша\Desktop\WinShiv\WinShiv\obj\Debug\WinShiv.Properties.Resources.resources
+C:\Users\Алеша\Desktop\WinShiv\WinShiv\obj\Debug\WinShiv.csproj.GenerateResource.Cache
+C:\Users\Алеша\Desktop\WinShiv\WinShiv\obj\Debug\WinShiv.exe
+C:\Users\Алеша\Desktop\WinShiv\WinShiv\obj\Debug\WinShiv.pdb
